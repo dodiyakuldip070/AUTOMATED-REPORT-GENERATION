@@ -29,3 +29,5 @@ Error Handling: Uses a try-except block to catch errors
 The script is structured with a main function that reads the CSV file and calls generate_pdf_report(), which processes the data and formats it into a PDF. The generated PDF provides a concise summary of the dataset, making it useful for data analysis and reporting.
 
 # OUTPUT OF THE TASK:
+[report.pdf](https://github.com/user-attachments/files/18602785/report.pdf)
+
